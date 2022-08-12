@@ -1,0 +1,56 @@
+.nav-link{
+    float:right;
+    margin-right:30px;
+}
+
+.info {
+    width:25%;
+    background-color: red;
+    float:left;
+}
+.nav {
+    width:25%;
+    float:right;
+}
+
+.header {
+    width:100%;
+    height:25px;
+    background-color: green;
+}
+
+.Avatar-photo{ display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+
+.footer-content {
+    float:left;
+}
+
+.project {
+    background-color:rgb(90, 240, 158);
+}
+
+.footer {
+    margin-top:40px;
+    width:100%;
+    height:35px;
+    background-color:red;
+}
+
+.content {
+    width:75%;
+    display:inline-block;
+}
+
+#employment {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+}
+
